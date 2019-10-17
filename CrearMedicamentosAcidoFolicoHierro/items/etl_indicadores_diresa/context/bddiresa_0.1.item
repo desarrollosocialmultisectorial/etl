@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_8JSrAJknEemuK8-OtFJosw" confirmationNeeded="false" name="PruebaLocal">
+    <contextParameter xmi:id="_8JSrAZknEemuK8-OtFJosw" comment="" name="bddiresa_Server" prompt="bddiresa_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_8JSrApknEemuK8-OtFJosw" comment="" name="bddiresa_Port" prompt="bddiresa_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_8JSrA5knEemuK8-OtFJosw" comment="" name="bddiresa_Database" prompt="bddiresa_Database?" promptNeeded="false" type="id_String" value="bddiresa"/>
+    <contextParameter xmi:id="_8JSrBJknEemuK8-OtFJosw" comment="" name="bddiresa_Password" prompt="bddiresa_Password?" promptNeeded="false" type="id_Password" value="KV8TVyQMvO0="/>
+    <contextParameter xmi:id="_8JSrBZknEemuK8-OtFJosw" comment="" name="bddiresa_Login" prompt="bddiresa_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_8JSrBpknEemuK8-OtFJosw" comment="" name="bddiresa_AdditionalParams" prompt="bddiresa_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_8JSrB5knEemuK8-OtFJosw" confirmationNeeded="false" name="PruebaServidor">
+    <contextParameter xmi:id="_8JSrCJknEemuK8-OtFJosw" comment="" name="bddiresa_Server" prompt="bddiresa_Server?" promptNeeded="false" type="id_String" value="172.18.20.17"/>
+    <contextParameter xmi:id="_8JSrCZknEemuK8-OtFJosw" comment="" name="bddiresa_Port" prompt="bddiresa_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_8JSrCpknEemuK8-OtFJosw" comment="" name="bddiresa_Database" prompt="bddiresa_Database?" promptNeeded="false" type="id_String" value="bddiresa"/>
+    <contextParameter xmi:id="_8JSrC5knEemuK8-OtFJosw" comment="" name="bddiresa_Password" prompt="bddiresa_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_8JSrDJknEemuK8-OtFJosw" comment="" name="bddiresa_Login" prompt="bddiresa_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_8JSrDZknEemuK8-OtFJosw" comment="" name="bddiresa_AdditionalParams" prompt="bddiresa_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  </talendfile:ContextType>
+</xmi:XMI>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_obvxIJhdEemBk8EkgX3PTQ" confirmationNeeded="false" name="ProduccionServidor">
+    <contextParameter xmi:id="_obvxIZhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Server" prompt="BASE_DE_DATOS_TRANSAC_Server?" promptNeeded="false" type="id_String" value="172.18.20.17"/>
+    <contextParameter xmi:id="_obvxIphdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Database" prompt="BASE_DE_DATOS_TRANSAC_Database?" promptNeeded="false" type="id_String" value="bd_indicadores$transac"/>
+    <contextParameter xmi:id="_obvxI5hdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_AdditionalParams" prompt="BASE_DE_DATOS_TRANSAC_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_obvxJJhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Login" prompt="BASE_DE_DATOS_TRANSAC_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_obvxJZhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Password" prompt="BASE_DE_DATOS_TRANSAC_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_obvxJphdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Port" prompt="BASE_DE_DATOS_TRANSAC_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_obvxJ5hdEemBk8EkgX3PTQ" confirmationNeeded="false" name="PruebaLocal">
+    <contextParameter xmi:id="_obvxKJhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Server" prompt="BASE_DE_DATOS_TRANSAC_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_obvxKZhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Database" prompt="BASE_DE_DATOS_TRANSAC_Database?" promptNeeded="false" type="id_String" value="bd_indicadores_transac"/>
+    <contextParameter xmi:id="_obvxKphdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_AdditionalParams" prompt="BASE_DE_DATOS_TRANSAC_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_obvxK5hdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Login" prompt="BASE_DE_DATOS_TRANSAC_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_obvxLJhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Password" prompt="BASE_DE_DATOS_TRANSAC_Password?" promptNeeded="false" type="id_Password" value="KV8TVyQMvO0="/>
+    <contextParameter xmi:id="_obvxLZhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Port" prompt="BASE_DE_DATOS_TRANSAC_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_obvxLphdEemBk8EkgX3PTQ" confirmationNeeded="false" name="PruebaServidor">
+    <contextParameter xmi:id="_obvxL5hdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Server" prompt="BASE_DE_DATOS_TRANSAC_Server?" promptNeeded="false" type="id_String" value="172.18.20.17"/>
+    <contextParameter xmi:id="_obvxMJhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Database" prompt="BASE_DE_DATOS_TRANSAC_Database?" promptNeeded="false" type="id_String" value="bd_indicadores_transac"/>
+    <contextParameter xmi:id="_obvxMZhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_AdditionalParams" prompt="BASE_DE_DATOS_TRANSAC_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_obvxMphdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Login" prompt="BASE_DE_DATOS_TRANSAC_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_obvxM5hdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Password" prompt="BASE_DE_DATOS_TRANSAC_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_obvxNJhdEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_TRANSAC_Port" prompt="BASE_DE_DATOS_TRANSAC_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+</xmi:XMI>

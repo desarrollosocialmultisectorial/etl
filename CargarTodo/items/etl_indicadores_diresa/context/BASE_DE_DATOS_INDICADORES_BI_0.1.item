@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_aGTmgJhmEemBk8EkgX3PTQ" confirmationNeeded="false" name="ProduccionServidor">
+    <contextParameter xmi:id="_aGTmgZhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Server" prompt="BASE_DE_DATOS_INDICADORES_BI_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_aGTmgphmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Database" prompt="BASE_DE_DATOS_INDICADORES_BI_Database?" promptNeeded="false" type="id_String" value="bd_indicadores_bi"/>
+    <contextParameter xmi:id="_aGTmg5hmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_AdditionalParams" prompt="BASE_DE_DATOS_INDICADORES_BI_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_aGTmhJhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Login" prompt="BASE_DE_DATOS_INDICADORES_BI_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_aGTmhZhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Password" prompt="BASE_DE_DATOS_INDICADORES_BI_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_aGTmhphmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Port" prompt="BASE_DE_DATOS_INDICADORES_BI_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_aGTmh5hmEemBk8EkgX3PTQ" confirmationNeeded="false" name="PruebaLocal">
+    <contextParameter xmi:id="_aGTmiJhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Server" prompt="BASE_DE_DATOS_INDICADORES_BI_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_aGTmiZhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Database" prompt="BASE_DE_DATOS_INDICADORES_BI_Database?" promptNeeded="false" type="id_String" value="bd_indicadores_bi"/>
+    <contextParameter xmi:id="_aGTmiphmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_AdditionalParams" prompt="BASE_DE_DATOS_INDICADORES_BI_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_aGTmi5hmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Login" prompt="BASE_DE_DATOS_INDICADORES_BI_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_aGTmjJhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Password" prompt="BASE_DE_DATOS_INDICADORES_BI_Password?" promptNeeded="false" type="id_Password" value="KV8TVyQMvO0="/>
+    <contextParameter xmi:id="_aGTmjZhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Port" prompt="BASE_DE_DATOS_INDICADORES_BI_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_aGTmjphmEemBk8EkgX3PTQ" confirmationNeeded="false" name="PruebaServidor">
+    <contextParameter xmi:id="_aGTmj5hmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Server" prompt="BASE_DE_DATOS_INDICADORES_BI_Server?" promptNeeded="false" type="id_String" value="172.18.20.17"/>
+    <contextParameter xmi:id="_aGTmkJhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Database" prompt="BASE_DE_DATOS_INDICADORES_BI_Database?" promptNeeded="false" type="id_String" value="bd_indicadores_bi"/>
+    <contextParameter xmi:id="_aGTmkZhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_AdditionalParams" prompt="BASE_DE_DATOS_INDICADORES_BI_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_aGTmkphmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Login" prompt="BASE_DE_DATOS_INDICADORES_BI_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_aGTmk5hmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Password" prompt="BASE_DE_DATOS_INDICADORES_BI_Password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_aGTmlJhmEemBk8EkgX3PTQ" comment="" name="BASE_DE_DATOS_INDICADORES_BI_Port" prompt="BASE_DE_DATOS_INDICADORES_BI_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  </talendfile:ContextType>
+</xmi:XMI>
